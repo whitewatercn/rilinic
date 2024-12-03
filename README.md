@@ -1,6 +1,6 @@
 # rilinic（rime + clinic = rilinic）
 
-本项目fork自[雾凇方案](https://github.com/iDvel/rime-ice)([fork版本](https://github.com/iDvel/rime-ice/commit/ed191350b20a0074d177c9431fcb985ba193ef2b)），通用功能与雾凇方案相同，详见[Rime 配置：雾凇拼音](https://dvel.me/posts/rime-ice/)，同时增加了医学（中医+西医）定制功能
+本项目fork自[雾凇方案](https://github.com/iDvel/rime-ice)([fork版本](https://github.com/iDvel/rime-ice/commit/ed191350b20a0074d177c9431fcb985ba193ef2b)），希望能够制作一款医学工作者易用好用的输入法
 
 词库基于雾凇方案+[rime_clinic](https://github.com/whitewatercn/rime_clinic)
 
@@ -12,9 +12,9 @@
 
 
 ## 长期维护词库
-以雾凇方案词库为底本修改，同时结合[rime_clinic](https://github.com/whitewatercn/rime_clinic)而成
+雾凇方案内置 + [rime_clinic医学词库](https://github.com/whitewatercn/rime_clinic)而成
 
-[医学词库详细说明](https://github.com/whitewatercn/rilinic/blob/main/docs/dict_introduction.md)
+[医学词库详细说明点此查看](https://github.com/whitewatercn/rilinic/blob/main/docs/dict_introduction.md)
 
 欢迎在词库方面提 issue，我会及时更新修正。
 
